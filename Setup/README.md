@@ -77,6 +77,3 @@
 **19. You will be directed to the Repo where the code have copied**
 
 ![](https://image.scribehow-prod.com/0xT0i5EvjYMs6J1tr0BurvsZ9VWAgmAkINK4zGuJMBE/zoom:1.5013404825737264/enlarge:true/crop:746:420:nowe:525:249/wm:0:nowe:535:289:0.08928571428571429/aHR0cHM6Ly9jb2xvbnktcmVjb3JkZXIuczMuYW1hem9uYXdzLmNvbS9maWxlcy8yMDIyLTExLTI3L2JiNWRmMzBjLWJkNjgtNDdjZS04ZTlhLTFkZGE0MzNiYmRjMi91c2VyX2Nyb3BwZWRfc2NyZWVuc2hvdC5qcGVn)
-#### [Made with Scribe](https://scribehow.com/shared/Google_Workflow__wW7uNKuLTJeoVGgXC9HIcw)
-
-

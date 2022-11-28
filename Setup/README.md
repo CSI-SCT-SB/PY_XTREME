@@ -77,3 +77,27 @@
 **19. You will be directed to the Repo where the code have copied**
 
 ![](https://image.scribehow-prod.com/0xT0i5EvjYMs6J1tr0BurvsZ9VWAgmAkINK4zGuJMBE/zoom:1.5013404825737264/enlarge:true/crop:746:420:nowe:525:249/wm:0:nowe:535:289:0.08928571428571429/aHR0cHM6Ly9jb2xvbnktcmVjb3JkZXIuczMuYW1hem9uYXdzLmNvbS9maWxlcy8yMDIyLTExLTI3L2JiNWRmMzBjLWJkNjgtNDdjZS04ZTlhLTFkZGE0MzNiYmRjMi91c2VyX2Nyb3BwZWRfc2NyZWVuc2hvdC5qcGVn)
+
+### Pull Request
+
+**20. Navigate to https://github.com/mohd-fa/PY_XTREME**
+
+**21. Click "Pull requests"**
+
+![](https://image.scribehow-prod.com/p9Llvt0QOrcsOUggznUwtmcIMdDJ_jCS_eSI3G1M-WY/zoom:1.2004287245444802/enlarge:true/crop:933:525:nowe:0:0/wm:0.8:nowe:256:228:0.08928571428571429/aHR0cHM6Ly9jb2xvbnktcmVjb3JkZXIuczMuYW1hem9uYXdzLmNvbS9maWxlcy8yMDIyLTExLTI4LzdjNzdiYzVkLTI2NWMtNGYzMi05ODhiLTM3MDFlYzc1MGE2Yi9hc2NyZWVuc2hvdC5qcGVn)
+
+**22. Click "New pull request"**
+
+![](https://image.scribehow-prod.com/EmRk__5nsfKwuS_lnvKC0oVMyCx6I4si6cN_LEI69aw/zoom:1.2004287245444802/enlarge:true/crop:933:525:nowe:986:38/wm:0.8:nowe:711:290:0.08928571428571429/aHR0cHM6Ly9jb2xvbnktcmVjb3JkZXIuczMuYW1hem9uYXdzLmNvbS9maWxlcy8yMDIyLTExLTI4L2IzZjhlZTk1LWNiMmUtNGEzMy05Y2NjLTE5MjFhZTU1NWFjZC9hc2NyZWVuc2hvdC5qcGVn)
+
+**23. Click "Create pull request"**
+
+![](https://image.scribehow-prod.com/I7-Yi5o9kdRwAnDjZpU8AI-yGeWrkrHLa-51AKGJKWk/zoom:1.2004287245444802/enlarge:true/crop:933:525:nowe:986:359/wm:0.8:nowe:701:290:0.08928571428571429/aHR0cHM6Ly9jb2xvbnktcmVjb3JkZXIuczMuYW1hem9uYXdzLmNvbS9maWxlcy8yMDIyLTExLTI4LzMwZTUyZWU2LTRmMDItNDExYy04NTc0LWYzN2EwMDUyMmJiMi9hc2NyZWVuc2hvdC5qcGVn)
+
+**24. Click the "Title" field and Enter the suitable title.**
+
+![](https://image.scribehow-prod.com/m6FBVrhO8nOJi8VzSZ9q0ExzKrzEYkTe5De0RjShA5Q/zoom:1.2004287245444802/enlarge:true/crop:933:525:nowe:0:359/wm:0.8:nowe:441:290:0.08928571428571429/aHR0cHM6Ly9jb2xvbnktcmVjb3JkZXIuczMuYW1hem9uYXdzLmNvbS9maWxlcy8yMDIyLTExLTI4LzNlZDFmYTRkLTNkM2EtNDhkYi1iZWNmLTNmYjg2NjNhOWUyMC9GaWxlLmpwZWc)
+
+**25. Click "Create pull request"**
+
+![](https://image.scribehow-prod.com/w2Mq3S3CqHfRvI5ARLx5ZdGmfncrFn6YeJJygX23jBE/zoom:1.2004287245444802/enlarge:true/crop:933:525:nowe:726:222/wm:0.8:nowe:535:290:0.08928571428571429/aHR0cHM6Ly9jb2xvbnktcmVjb3JkZXIuczMuYW1hem9uYXdzLmNvbS9maWxlcy8yMDIyLTExLTI4LzZiZjJlNjEwLTY5NjAtNDBjOC1hMjExLTJiODU1Y2UwYmM2ZS9hc2NyZWVuc2hvdC5qcGVn)

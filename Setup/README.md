@@ -74,4 +74,4 @@
 
 **19. You will be directed to the Repo where the code have copied**
 
-![](https://colony-recorder.s3-accelerate.amazonaws.com/files/2022-11-27/bb5df30c-bd68-47ce-8e9a-1dda433bbdc2/user_cropped_screenshot.jpeg?AWSAccessKeyId=AKIA2JDELI434TBIMF7V&Signature=AoU7ilnAC%2FT%2F%2FHukvhu37CCTudY%3D&Expires=1669660290)
+![](https://colony-recorder.s3-accelerate.amazonaws.com/files/2022-11-28/26e7e456-bddf-40f8-a0e7-e48bce5f3367/user_cropped_screenshot.jpeg?AWSAccessKeyId=AKIA2JDELI434TBIMF7V&Signature=WajUTfZIVcRihODcPVCL9rF4T%2Bc%3D&Expires=1669661011)

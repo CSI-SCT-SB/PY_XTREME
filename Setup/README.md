@@ -1,8 +1,10 @@
-# Setup
+# 24 Pull Requests Setup
 
-## **Fork the Repo**
 
-**1. Navigate to https://github.com/CSI-SCT-SB/24requests**
+
+### Fork the Repo
+
+**1. Navigate to https://github.com/CSI-SCT-SB/PY_XTREME**
 
 **2. Click this icon.**
 
@@ -16,13 +18,9 @@
 
 ![](https://image.scribehow-prod.com/5Wwj44QFc2EfX-Xub-rwDDhR4EufU8zBO0I0Di-KZTY/zoom:1.2004287245444802/enlarge:true/crop:933:525:nowe:130:407/wm:0.8:nowe:535:513:0.08928571428571429/aHR0cHM6Ly9jb2xvbnktcmVjb3JkZXIuczMuYW1hem9uYXdzLmNvbS9maWxlcy8yMDIyLTExLTI3LzExZmM1MWNlLWRhNDItNDRhYy1iNWFhLTQ1YWNiNmJlNjY0Yi9hc2NyZWVuc2hvdC5qcGVn)
 
+### Create and copy the code in colab to Github
+
 **5. Navigate to https://colab.research.google.com/**
-
-<br>
-
-## **Create and copy the code in colab to Github**
-
-<br>
 
 **6. Click here.**
 
@@ -101,3 +99,4 @@
 **25. Click "Create pull request"**
 
 ![](https://image.scribehow-prod.com/w2Mq3S3CqHfRvI5ARLx5ZdGmfncrFn6YeJJygX23jBE/zoom:1.2004287245444802/enlarge:true/crop:933:525:nowe:726:222/wm:0.8:nowe:535:290:0.08928571428571429/aHR0cHM6Ly9jb2xvbnktcmVjb3JkZXIuczMuYW1hem9uYXdzLmNvbS9maWxlcy8yMDIyLTExLTI4LzZiZjJlNjEwLTY5NjAtNDBjOC1hMjExLTJiODU1Y2UwYmM2ZS9hc2NyZWVuc2hvdC5qcGVn)
+

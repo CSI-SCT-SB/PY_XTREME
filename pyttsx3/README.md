@@ -1,4 +1,4 @@
-# pyqt5 
+# Pyttsx3
 
 ## Tutorials
 1. [**Official documentation**](https://pyttsx3.readthedocs.io/en/latest/)

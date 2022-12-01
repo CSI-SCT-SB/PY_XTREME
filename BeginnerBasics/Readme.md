@@ -1,8 +1,8 @@
 ![1_RJMxLdTHqVBSijKmOO5MAg](https://user-images.githubusercontent.com/79012314/205110430-c103bbb0-b55f-4467-bf9f-a81fcdef52bc.jpg)
-### BEGINNERS GUIDE TO PYTHON
+## BEGINNERS GUIDE TO PYTHON
 
 
-#### BASIC CONTENTS:
+### BASIC CONTENTS:
 
 
 #### SAMPLE PROGRAMMES TO BEGIN WITH:

@@ -40,4 +40,4 @@ Every day from now through till Christmas ; Submit a PR and claim it on https://
 
 ## TABLE OF CONTENTS:
 - [HOW TO COLAB??? and Put a "PR"](https://github.com/CSI-SCT-SB/PY_XTREME/tree/main/Beginners-guide)
-- []
+- [Getting Started With Python](https://github.com/CSI-SCT-SB/PY_XTREME/tree/main/BeginnerBasics)

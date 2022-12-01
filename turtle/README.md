@@ -1,11 +1,11 @@
 # Turtle
 
 ## Documentations
-1. [Official documentation] (https://docs.python.org/3/library/turtle.html)
+1. [Official documentation](https://docs.python.org/3/library/turtle.html)
 
 ## Tutorials
-1. [Blog by **geeks for geeks on turtle**](https://www.geeksforgeeks.org/turtle-programming-python/)
-1. [concise tutorial by **realpython.com**](https://realpython.com/beginners-guide-python-turtle/)
+1. [Blog on turtle by **geeks for geeks**](https://www.geeksforgeeks.org/turtle-programming-python/)
+1. [Concise tutorial by **realpython.com**](https://realpython.com/beginners-guide-python-turtle/)
 
 ## Youtube Tutorials
 -[Python turtle graphics by **Amulya's academy**](https://www.youtube.com/playlist?list=PLzgPDYo_3xumT2sfELR4_YV3aojaxkUC9)

@@ -1,4 +1,4 @@
-# 24 Pull Requests Setup
+# 24 Pull Requests Guide
 
 
 

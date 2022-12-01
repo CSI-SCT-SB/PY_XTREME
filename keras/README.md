@@ -1,19 +1,19 @@
 # Keras
 
 ## About
-https://keras.io/
+[**Official website**](https://keras.io/)
 
 ## Beginners guide
-https://elitedatascience.com/keras-tutorial-deep-learning-in-python 
+[**Blog by elitedatascience**](https://elitedatascience.com/keras-tutorial-deep-learning-in-python) 
 
 ## Guides
-https://keras.io/guides/
+[**Official documentation**](https://keras.io/guides/)
 
 ## Api reference
-https://keras.io/api/
+[**Official API docs**](https://keras.io/api/)
 
 ## Using keras with colab
-https://colab.research.google.com/github/GoogleCloudPlatform/cloudml-samples/blob/master/notebooks/tensorflow/getting-started-keras.ipynb
+[**Kera + colab guide**](https://colab.research.google.com/github/GoogleCloudPlatform/cloudml-samples/blob/master/notebooks/tensorflow/getting-started-keras.ipynb)
 
 ## For Queries Contact Maintainer ☎️: 
-[Benyamin Alexander Joseph](https://wa.me/<+918452077305>)
+[**Benyamin Alexander Joseph**](https://wa.me/<+918452077305>)

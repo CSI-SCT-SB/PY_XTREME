@@ -22,7 +22,7 @@ Every day from now through till Christmas ; Submit a PR and claim it on https://
 - Add Codes via Google colab with output.
 - File should be of the format Programmer_program-name.
 - Comment library name and functions.
-- Any misconduct will lead to spam label..
+- Any misconduct will lead to spam label..!
 
 
 #### 🎄 Contribute your functions to their respective libraries.
@@ -37,3 +37,7 @@ Every day from now through till Christmas ; Submit a PR and claim it on https://
 
 #### *Get your open source gifts ready* 🎁 
 #### *Let's fire up this season Cause Santa is waiting* ! ☃️🎄
+
+## TABLE OF CONTENTS:
+- [HOW TO COLAB??? and Put a "PR"](https://github.com/CSI-SCT-SB/PY_XTREME/tree/main/Beginners-guide)
+- []

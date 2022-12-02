@@ -2,4 +2,4 @@
 
 
 Contact
-[Aryan Anil](+918848992929)
+[Aryan Anil](https://wa.me/<+918848992929>)

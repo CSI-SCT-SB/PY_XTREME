@@ -1,5 +1,5 @@
 ### Math library
 
 
-Contact
-[Aryan Anil](+918848992929)
+Contact Maintainer:
+[Aryan Anil](https://wa.me/<+918848992929>)

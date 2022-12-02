@@ -3,7 +3,13 @@
 
 
 ### BASIC CONTENTS:
-
+- [Basic Syntax and Comments]()
+- [Conditional Operator]()
+- [Loop](https://github.com/CSI-SCT-SB/PY_XTREME/tree/main/BeginnerBasics/LOOPs)
+- [Mathematical and Comparitive Operators]()
+- [Functions](https://github.com/CSI-SCT-SB/PY_XTREME/tree/main/BeginnerBasics/FUNCTIONS)
+- [Search Algorithms](https://github.com/CSI-SCT-SB/PY_XTREME/tree/main/BeginnerBasics/SEARCH_ALGORITHMS)
+- [Sort Algorithms](https://github.com/CSI-SCT-SB/PY_XTREME/tree/main/BeginnerBasics/SORT_ALGORITHMS)
 
 #### SAMPLE PROGRAMMES TO BEGIN WITH:
 - [Simple Calculator](https://github.com/CSI-SCT-SB/PY_XTREME/blob/main/BeginnerBasics/simple_calculator.ipynb)

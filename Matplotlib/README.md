@@ -6,5 +6,8 @@
 1. [**Blog by geeksforgeeks**](https://www.geeksforgeeks.org/matplotlib-tutorial/)
 1. [**Matplotlib tutorial video**](https://www.youtube.com/watch?v=wB9C0Mz9gSo)
 
+## CONTENTS:
+- [Simple Sin and Cos Graph]
+
 ## For Queries Contact Maintainer ☎️: 
 [**Anna Mariam John**](https://wa.me/<+919745237420>)

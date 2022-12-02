@@ -1,4 +1,5 @@
 # Numpy
+This stands for numerical python. They are used for mathematical operations on arrays.
 
 ## Installer
 [**Installation guide**](https://www.tutorialspoint.com/numpy/numpy_environment.htm)

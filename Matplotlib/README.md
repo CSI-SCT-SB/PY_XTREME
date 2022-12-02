@@ -7,7 +7,7 @@
 1. [**Matplotlib tutorial video**](https://www.youtube.com/watch?v=wB9C0Mz9gSo)
 
 ## CONTENTS:
-- [Simple Sin and Cos Graph]
+- [Simple Sin and Cos Graph](https://github.com/CSI-SCT-SB/PY_XTREME/blob/main/Matplotlib/PlottingSin%26CosGraph.ipynb)
 
 ## For Queries Contact Maintainer ☎️: 
 [**Anna Mariam John**](https://wa.me/<+919745237420>)

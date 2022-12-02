@@ -2,7 +2,8 @@
 ## BEGINNERS GUIDE TO PYTHON
 
 
-### BASIC CONTENTS:
+### **C O N T E N T**
+#### BASICS FOR STARTERS:
 - [Basic Syntax and Comments]()
 - [Conditional Operator]()
 - [Loop](https://github.com/CSI-SCT-SB/PY_XTREME/tree/main/BeginnerBasics/LOOPs)
@@ -10,6 +11,7 @@
 - [Functions](https://github.com/CSI-SCT-SB/PY_XTREME/tree/main/BeginnerBasics/FUNCTIONS)
 - [Search Algorithms](https://github.com/CSI-SCT-SB/PY_XTREME/tree/main/BeginnerBasics/SEARCH_ALGORITHMS)
 - [Sort Algorithms](https://github.com/CSI-SCT-SB/PY_XTREME/tree/main/BeginnerBasics/SORT_ALGORITHMS)
+- [File Handling]()
 
 #### SAMPLE PROGRAMMES TO BEGIN WITH:
 - [Simple Calculator](https://github.com/CSI-SCT-SB/PY_XTREME/blob/main/BeginnerBasics/simple_calculator.ipynb)
@@ -17,6 +19,11 @@
 - [Check Prime number](https://github.com/CSI-SCT-SB/PY_XTREME/blob/main/BeginnerBasics/prime.ipynb)
 - [Find the Largest among three numbers](https://github.com/CSI-SCT-SB/PY_XTREME/blob/main/BeginnerBasics/largest_among_three.ipynb)
 - [Check Leap Year](https://github.com/CSI-SCT-SB/PY_XTREME/blob/main/BeginnerBasics/LEAP_YEAR.ipynb)
+- [Fibonacci()
+- [Palindrome]()
+- [BMI]()
+- [Degree to Fahrenheit]()
+- [LCM and HCF]()
 ## For Queries Contact Maintainer ☎️:
 [Anirudh S Nair](https://wa.me/<+919656100940>)
 

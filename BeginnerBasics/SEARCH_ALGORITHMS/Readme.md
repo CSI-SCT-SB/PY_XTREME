@@ -1,1 +1,3 @@
-### BASIC SEARCH ALGORITHMS IN PYTHON
+### BASIC SEARCH ALGORITHMS IN PYTHON:
+- [Linear Search]()
+- [Binary Search]()

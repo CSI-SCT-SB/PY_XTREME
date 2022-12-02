@@ -26,8 +26,8 @@ Every day from now through till Christmas ; Submit a PR and claim it on https://
 
 
 #### 🎄 Contribute your functions to their respective libraries.
-#### ☃️ Contribution of a function to some other library than it belongs to will be considered diqualification.
-#### 💎 No duplication is entertained.
+#### ☃️ Contribution of a function to some library other than where it belongs, to will be considered diqualified.
+#### 💎 No duplication is entertained
 #### ❄️ Give your contributions till 24-December-2022   11:59pm
 
 

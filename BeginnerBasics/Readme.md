@@ -9,6 +9,7 @@
 - [Simple Calculator](https://github.com/CSI-SCT-SB/PY_XTREME/blob/main/BeginnerBasics/simple_calculator.ipynb)
 - [Swapping of two numbers](https://github.com/CSI-SCT-SB/PY_XTREME/blob/main/BeginnerBasics/swaping_numbers.ipynb)
 - [Check Prime number](https://github.com/CSI-SCT-SB/PY_XTREME/blob/main/BeginnerBasics/prime.ipynb)
+- [Find the Largest among three numbers](https://github.com/CSI-SCT-SB/PY_XTREME/blob/main/BeginnerBasics/largest_among_three.ipynb)
 ## For Queries Contact Maintainer ☎️:
 [Anirudh S Nair](https://wa.me/<+919656100940>)
 

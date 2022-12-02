@@ -1,6 +1,8 @@
 ![1_RJMxLdTHqVBSijKmOO5MAg](https://user-images.githubusercontent.com/79012314/205110430-c103bbb0-b55f-4467-bf9f-a81fcdef52bc.jpg)
 ## BEGINNERS GUIDE TO PYTHON
 
+The first and the most important directory. For those who are entirely new to Powerful language of Python, we have a section as **'BASICS FOR STARTERS'** in content session where we explain a to z basics in python. For those who are bit more into python, we have another section **'SAMPLE PROGRAMMES TO BEGIN WITH'** for them into dive a little deeper before theybtackle specialised library codes.
+
 
 ### **C O N T E N T**
 #### BASICS FOR STARTERS:

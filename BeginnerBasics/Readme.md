@@ -22,7 +22,7 @@ The first and the most important directory. For those who are entirely new to Po
 - [Find the Largest among three numbers](https://github.com/CSI-SCT-SB/PY_XTREME/blob/main/BeginnerBasics/largest_among_three.ipynb)
 - [Check Leap Year](https://github.com/CSI-SCT-SB/PY_XTREME/blob/main/BeginnerBasics/LEAP_YEAR.ipynb)
 - [Find Factorial](https://github.com/CSI-SCT-SB/PY_XTREME/blob/main/BeginnerBasics/factorial.ipynb)
-- [Fibonacci]()
+- [Fibonacci](https://github.com/CSI-SCT-SB/PY_XTREME/blob/main/BeginnerBasics/fibonacci_series.ipynb)
 - [Palindrome]()
 - [BMI]()
 - [Degree to Fahrenheit]()

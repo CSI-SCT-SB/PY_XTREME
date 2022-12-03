@@ -6,7 +6,6 @@
 </p>
 <p align="center">
  <h3 align="center">Giving back little gifts of code for Christmas.</h3>
- <h4 align="center">CSI SCT SB</h4>
 </p>
 
 # 24 PULL REQUESTS 

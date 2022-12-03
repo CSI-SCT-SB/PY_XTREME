@@ -21,6 +21,7 @@ The first and the most important directory. For those who are entirely new to Po
 - [Check Prime number](https://github.com/CSI-SCT-SB/PY_XTREME/blob/main/BeginnerBasics/prime.ipynb)
 - [Find the Largest among three numbers](https://github.com/CSI-SCT-SB/PY_XTREME/blob/main/BeginnerBasics/largest_among_three.ipynb)
 - [Check Leap Year](https://github.com/CSI-SCT-SB/PY_XTREME/blob/main/BeginnerBasics/LEAP_YEAR.ipynb)
+- [Find Factorial](https://github.com/CSI-SCT-SB/PY_XTREME/blob/main/BeginnerBasics/factorial.ipynb)
 - [Fibonacci]()
 - [Palindrome]()
 - [BMI]()

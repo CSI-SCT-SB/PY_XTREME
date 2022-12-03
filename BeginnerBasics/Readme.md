@@ -23,6 +23,7 @@ The first and the most important directory. For those who are entirely new to Po
 - [Check Leap Year](https://github.com/CSI-SCT-SB/PY_XTREME/blob/main/BeginnerBasics/LEAP_YEAR.ipynb)
 - [Find Factorial](https://github.com/CSI-SCT-SB/PY_XTREME/blob/main/BeginnerBasics/factorial.ipynb)
 - [Fibonacci](https://github.com/CSI-SCT-SB/PY_XTREME/blob/main/BeginnerBasics/fibonacci_series.ipynb)
+- [Check if Amstrong or not](https://github.com/CSI-SCT-SB/PY_XTREME/blob/main/BeginnerBasics/amstrong.ipynb)
 - [Palindrome]()
 - [BMI]()
 - [Degree to Fahrenheit]()

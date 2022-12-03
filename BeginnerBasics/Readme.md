@@ -26,7 +26,7 @@ The first and the most important directory. For those who are entirely new to Po
 - [Check if Amstrong or not](https://github.com/CSI-SCT-SB/PY_XTREME/blob/main/BeginnerBasics/amstrong.ipynb)
 - [Palindrome](https://github.com/CSI-SCT-SB/PY_XTREME/blob/main/BeginnerBasics/Palindrome.ipynb)
 - [BMI](https://github.com/CSI-SCT-SB/PY_XTREME/blob/main/BeginnerBasics/BMI.ipynb)
-- [Degree to Fahrenheit]()
+- [Degree to Fahrenheit](https://github.com/CSI-SCT-SB/PY_XTREME/blob/main/BeginnerBasics/cel_to_far.ipynb)
 - [LCM and HCF]()
 ## For Queries Contact Maintainer ☎️:
 [Anirudh S Nair](https://wa.me/<+919656100940>)

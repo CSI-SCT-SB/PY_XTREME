@@ -25,7 +25,7 @@ The first and the most important directory. For those who are entirely new to Po
 - [Fibonacci](https://github.com/CSI-SCT-SB/PY_XTREME/blob/main/BeginnerBasics/fibonacci_series.ipynb)
 - [Check if Amstrong or not](https://github.com/CSI-SCT-SB/PY_XTREME/blob/main/BeginnerBasics/amstrong.ipynb)
 - [Palindrome](https://github.com/CSI-SCT-SB/PY_XTREME/blob/main/BeginnerBasics/Palindrome.ipynb)
-- [BMI]()
+- [BMI](https://github.com/CSI-SCT-SB/PY_XTREME/blob/main/BeginnerBasics/BMI.ipynb)
 - [Degree to Fahrenheit]()
 - [LCM and HCF]()
 ## For Queries Contact Maintainer ☎️:

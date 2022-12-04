@@ -1,12 +1,11 @@
 
 <p align="center">
- <img  src="https://github.com/HKRcodes/PY_XTREME/blob/main/%23%23%23DON'T%20TOUCH/24-Pull-Request.jpg" align="center" alt="24" />
+ <img  src="https://user-images.githubusercontent.com/108210868/205439911-234da694-9d76-4473-9593-5f8aee379e87.png" align="center" alt="24" />
  <h1 align="center" >PY_XTREME</h1>
  <h3 align="center">DECEMBER TO CODE!</h3>
 </p>
 <p align="center">
  <h3 align="center">Giving back little gifts of code for Christmas.</h3>
- <h4 align="center">CSI SCT SB</h4>
 </p>
 
 # 24 PULL REQUESTS 
@@ -26,8 +25,8 @@ Every day from now through till Christmas ; Submit a PR and claim it on https://
 
 
 #### 🎄 Contribute your functions to their respective libraries.
-#### ☃️ Contribution of a function to some other library than it belongs to will be considered diqualification.
-#### 💎 No duplication is entertained.
+#### ☃️ Contribution of a function to some library other than where it belongs, to will be considered diqualified.
+#### 💎 No duplication is entertained
 #### ❄️ Give your contributions till 24-December-2022   11:59pm
 
 

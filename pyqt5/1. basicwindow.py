@@ -1,3 +1,7 @@
+"""
+this code creates a basic window with no layouts or widget in it 
+"""
+
 import PyQt5.QtWidgets as widgets 
 
 

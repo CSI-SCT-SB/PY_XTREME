@@ -19,8 +19,7 @@
 Every day from now through till Christmas ; Submit a PR and claim it on https://24pullrequests.com! 🎄🎁
 
 - Add Codes via Google colab with output.
-- File should be of the format Programmer_program-name.
-- Comment library name and functions.
+- Comment function description , syntax and working.
 - Any misconduct will lead to spam label..!
 
 

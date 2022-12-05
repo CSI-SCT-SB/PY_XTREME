@@ -4,4 +4,4 @@ A simple, but extensible Python implementation for the [Telegram Bot API](https:
 
 ## Documentation
 
--[Official documentation](https://pytba.readthedocs.io/en/latest/index.html)
+[Official documentation](https://pytba.readthedocs.io/en/latest/index.html)

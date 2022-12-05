@@ -1,5 +1,7 @@
 # OpenCV
 
+![opencv_logo_icon_170888](https://user-images.githubusercontent.com/79012314/205357013-c3d2158b-5f7f-4636-97c8-bac421f65b42.png)
+
 ## About
 [**Official website**](https://opencv.org/about/)
 

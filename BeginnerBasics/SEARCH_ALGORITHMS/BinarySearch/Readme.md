@@ -4,5 +4,5 @@ In computer science, binary search, also known as half-interval search,[1] logar
 ![image-2](https://user-images.githubusercontent.com/116305458/205507271-7c711882-161b-412a-96c9-1834a90fc0ef.png)
 
 They can be implemented in two different ways: 
-- Without Using Recurssion
+- [Without Using Recurssion](https://github.com/CSI-SCT-SB/PY_XTREME/blob/main/BeginnerBasics/SEARCH_ALGORITHMS/BinarySearch/binary_search.ipynb)
 - Using Recurssion

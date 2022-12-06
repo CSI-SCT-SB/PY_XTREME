@@ -22,8 +22,5 @@ PyQt is a Python binding of the cross-platform GUI toolkit Qt, implemented as a 
 ## Youtube Tutorials
 1. [Creating GUI with pyqt5](https://www.youtube.com/watch?v=rZcdhles6vQ&list=PLCC34OHNcOtpmCA8s_dpPMvQLyHbvxocY&index=1)
 
-## CONTENTS:
-- [Configuration of a Window](https://github.com/CSI-SCT-SB/PY_XTREME/blob/main/pyqt5/basic_window_configurations.py)
-
 ## For Queries Contact Maintainer ☎️: 
 [Navadeep Satheesh](https://wa.me/<+91 85477 31160>)

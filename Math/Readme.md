@@ -1,5 +1,7 @@
 # Math
 
+## Contents
+
 ## Links:
 
 1. [**Documentation**](https://docs.python.org/3/library/math.html)

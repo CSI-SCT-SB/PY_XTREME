@@ -6,7 +6,7 @@ The first and the most important directory. For those who are entirely new to Po
 
 ### **C O N T E N T**
 #### BASICS FOR STARTERS:
-- [Basic Syntax and Comments]()
+- [Basic Syntax and Comments](https://github.com/CSI-SCT-SB/PY_XTREME/tree/main/BeginnerBasics/Basic%20Syntax%20and%20Comments)
 - [Conditional Operator]()
 - [Loop](https://github.com/CSI-SCT-SB/PY_XTREME/tree/main/BeginnerBasics/LOOPs)
 - [Mathematical and Comparitive Operators]()

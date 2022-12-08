@@ -10,7 +10,7 @@ PyQt is a Python binding of the cross-platform GUI toolkit Qt, implemented as a 
 - [Horizontal Layout](https://github.com/CSI-SCT-SB/PY_XTREME/tree/main/pyqt5/05.horizontalLayout)
 - [Grid Layout](https://github.com/CSI-SCT-SB/PY_XTREME/tree/main/pyqt5/06.GridLayout)
 - [Form Layout](https://github.com/CSI-SCT-SB/PY_XTREME/blob/main/pyqt5/07.formLayout.py)
-- [Push Button](https://github.com/CSI-SCT-SB/PY_XTREME/blob/main/pyqt5/08.PushButtons.py)
+- [Push Button](https://github.com/CSI-SCT-SB/PY_XTREME/tree/main/pyqt5/08.PushButtons)
 - [Line Edit](https://github.com/CSI-SCT-SB/PY_XTREME/tree/main/pyqt5/09.LineEdit)
 - [Text Edit](https://github.com/CSI-SCT-SB/PY_XTREME/tree/main/pyqt5/10.TextEdit)
 - [Radio Buttons](https://github.com/CSI-SCT-SB/PY_XTREME/blob/main/pyqt5/11.RadioButtons.py)

@@ -3,6 +3,7 @@
 ## Contents
 - [Ceiling Value](https://github.com/CSI-SCT-SB/PY_XTREME/blob/main/Math/Ceil.ipynb)
 - [Combination](https://github.com/CSI-SCT-SB/PY_XTREME/blob/main/Math/Combination.ipynb)
+- [Floor](https://github.com/CSI-SCT-SB/PY_XTREME/blob/main/Math/Floor.ipynb)
 
 ## Links:
 

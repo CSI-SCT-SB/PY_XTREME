@@ -12,3 +12,4 @@ There are 2 types of loops in Python:
 1. [Sum of even numbers with while](https://github.com/CSI-SCT-SB/PY_XTREME/blob/main/BeginnerBasics/LOOPs/sumofeven(while).ipynb)
 1. [Pattern printing](https://github.com/CSI-SCT-SB/PY_XTREME/blob/main/BeginnerBasics/LOOPs/pattern(1).ipynb)
 1. [Cube of numbers](https://github.com/CSI-SCT-SB/PY_XTREME/blob/main/BeginnerBasics/LOOPs/cubeofnos.ipynb)
+1. [Sum of nos in a given range](https://github.com/CSI-SCT-SB/PY_XTREME/blob/main/BeginnerBasics/LOOPs/sumofrange(_for).ipynb)

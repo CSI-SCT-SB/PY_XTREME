@@ -3,6 +3,9 @@
 # Numpy
 This stands for numerical python. They are used for mathematical operations on arrays.
 
+## Contents
+- [Matrix_multiplication](https://github.com/CSI-SCT-SB/PY_XTREME/tree/main/Numpy/Matrix_multiplication)
+
 ## Installer
 [**Installation guide**](https://www.tutorialspoint.com/numpy/numpy_environment.htm)
 

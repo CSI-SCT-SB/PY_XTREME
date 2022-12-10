@@ -4,7 +4,7 @@ There are 2 types of loops in Python:
 - [for loop](https://github.com/CSI-SCT-SB/PY_XTREME/blob/main/BeginnerBasics/LOOPs/for_loop_example.ipynb)
 - [while loop](https://github.com/CSI-SCT-SB/PY_XTREME/blob/main/BeginnerBasics/LOOPs/while_loop_example.ipynb)
 
-##List of example programs
+## List of example programs
 
 1. [Finding average with while loop](https://github.com/CSI-SCT-SB/PY_XTREME/blob/main/BeginnerBasics/LOOPs/average(while).ipynb)
 1. [Printing list with while loop](https://github.com/CSI-SCT-SB/PY_XTREME/blob/main/BeginnerBasics/LOOPs/listprinting(while).ipynb)

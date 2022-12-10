@@ -4,6 +4,16 @@
 - [Ceiling Value](https://github.com/CSI-SCT-SB/PY_XTREME/blob/main/Math/Ceil.ipynb)
 - [Combination](https://github.com/CSI-SCT-SB/PY_XTREME/blob/main/Math/Combination.ipynb)
 - [Floor](https://github.com/CSI-SCT-SB/PY_XTREME/blob/main/Math/Floor.ipynb)
+- [Listproduct](https://github.com/CSI-SCT-SB/PY_XTREME/blob/main/Math/Listproduct.ipynb)
+- [Permutation](https://github.com/CSI-SCT-SB/PY_XTREME/blob/main/Math/Permutation.ipynb)
+- [Remainder](https://github.com/CSI-SCT-SB/PY_XTREME/blob/main/Math/Remainder.ipynb)
+- [Truncate](https://github.com/CSI-SCT-SB/PY_XTREME/blob/main/Math/Truncate.ipynb)
+- [Commondivisor](https://github.com/CSI-SCT-SB/PY_XTREME/blob/main/Math/commondivisor.ipynb)
+- [Distance](https://github.com/CSI-SCT-SB/PY_XTREME/blob/main/Math/distance.ipynb)
+- [Factorial](https://github.com/CSI-SCT-SB/PY_XTREME/blob/main/Math/factorial.ipynb)
+- [sqroot](https://github.com/CSI-SCT-SB/PY_XTREME/blob/main/Math/sqroot.ipynb)
+- [todegree](https://github.com/CSI-SCT-SB/PY_XTREME/blob/main/Math/todegree.ipynb)
+- [torad](https://github.com/CSI-SCT-SB/PY_XTREME/blob/main/Math/torad.ipynb)
 
 ## Links:
 

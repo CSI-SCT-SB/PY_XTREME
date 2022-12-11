@@ -6,6 +6,7 @@ This stands for numerical python. They are used for mathematical operations on a
 ## Contents
 - [Matrix_multiplication](https://github.com/CSI-SCT-SB/PY_XTREME/tree/main/Numpy/Matrix_multiplication)
 - [Matrix_transpose](https://github.com/CSI-SCT-SB/PY_XTREME/tree/main/Numpy/Matrix_transpose)
+- [Clip](https://github.com/CSI-SCT-SB/PY_XTREME/blob/main/Numpy/Clip.ipynb)
 
 ## Installer
 [**Installation guide**](https://www.tutorialspoint.com/numpy/numpy_environment.htm)

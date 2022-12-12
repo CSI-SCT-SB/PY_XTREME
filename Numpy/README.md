@@ -12,6 +12,9 @@ This stands for numerical python. They are used for mathematical operations on a
 - [Polynomial_operations](https://github.com/CSI-SCT-SB/PY_XTREME/tree/main/Numpy/Polynomial_Operations)
 - [Matrix_rotation](https://github.com/CSI-SCT-SB/PY_XTREME/tree/main/Numpy/Matrix_Rotation)
 - [Lists_to_matrix](https://github.com/CSI-SCT-SB/PY_XTREME/blob/main/Numpy/ListstoMatrix.ipynb)
+- [Poly_fit](https://github.com/CSI-SCT-SB/PY_XTREME/blob/main/Numpy/PolyFit.ipynb)
+- [Random](https://github.com/CSI-SCT-SB/PY_XTREME/blob/main/Numpy/Random.ipynb)
+- [Repeat](https://github.com/CSI-SCT-SB/PY_XTREME/blob/main/Numpy/Repeat.ipynb)
 
 ## Installer
 [**Installation guide**](https://www.tutorialspoint.com/numpy/numpy_environment.htm)

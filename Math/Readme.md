@@ -15,6 +15,7 @@
 - [todegree](https://github.com/CSI-SCT-SB/PY_XTREME/blob/main/Math/todegree.ipynb)
 - [torad](https://github.com/CSI-SCT-SB/PY_XTREME/blob/main/Math/torad.ipynb)
 - [Sum_of_arithmetic_progression](https://github.com/CSI-SCT-SB/PY_XTREME/blob/main/Math/Sum_of_Arithmetic_Progression.ipynb)
+- [Sum_of_gp](https://github.com/CSI-SCT-SB/PY_XTREME/blob/main/Math/Sum_of_gp.ipynb)
 
 ## Links:
 

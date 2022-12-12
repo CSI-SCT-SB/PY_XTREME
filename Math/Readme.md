@@ -14,6 +14,7 @@
 - [sqroot](https://github.com/CSI-SCT-SB/PY_XTREME/blob/main/Math/sqroot.ipynb)
 - [todegree](https://github.com/CSI-SCT-SB/PY_XTREME/blob/main/Math/todegree.ipynb)
 - [torad](https://github.com/CSI-SCT-SB/PY_XTREME/blob/main/Math/torad.ipynb)
+- [Sum_of_arithmetic_progression](https://github.com/CSI-SCT-SB/PY_XTREME/blob/main/Math/Sum_of_Arithmetic_Progression.ipynb)
 
 ## Links:
 

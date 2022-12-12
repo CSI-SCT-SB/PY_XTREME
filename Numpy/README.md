@@ -15,6 +15,9 @@ This stands for numerical python. They are used for mathematical operations on a
 - [Poly_fit](https://github.com/CSI-SCT-SB/PY_XTREME/blob/main/Numpy/PolyFit.ipynb)
 - [Random](https://github.com/CSI-SCT-SB/PY_XTREME/blob/main/Numpy/Random.ipynb)
 - [Repeat](https://github.com/CSI-SCT-SB/PY_XTREME/blob/main/Numpy/Repeat.ipynb)
+- [Search](https://github.com/CSI-SCT-SB/PY_XTREME/blob/main/Numpy/Search.ipynb)
+- [Sort](https://github.com/CSI-SCT-SB/PY_XTREME/blob/main/Numpy/Sort.ipynb)
+- [Stack](https://github.com/CSI-SCT-SB/PY_XTREME/blob/main/Numpy/Stack.ipynb)
 
 ## Installer
 [**Installation guide**](https://www.tutorialspoint.com/numpy/numpy_environment.htm)

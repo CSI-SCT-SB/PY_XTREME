@@ -23,6 +23,8 @@ This stands for numerical python. They are used for mathematical operations on a
 - [Unique2](https://github.com/CSI-SCT-SB/PY_XTREME/blob/main/Numpy/Unique2.ipynb)
 - [ardiv](https://github.com/CSI-SCT-SB/PY_XTREME/blob/main/Numpy/ardiv.ipynb)
 - [argmax](https://github.com/CSI-SCT-SB/PY_XTREME/blob/main/Numpy/argmax.ipynb)
+- [linspace](https://github.com/CSI-SCT-SB/PY_XTREME/blob/main/Numpy/linspace.ipynb)
+- [numpy_basics](https://github.com/CSI-SCT-SB/PY_XTREME/blob/main/Numpy/numpy_basics.ipynb)
 
 ## Installer
 [**Installation guide**](https://www.tutorialspoint.com/numpy/numpy_environment.htm)

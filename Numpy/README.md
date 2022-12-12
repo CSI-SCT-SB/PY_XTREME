@@ -21,6 +21,8 @@ This stands for numerical python. They are used for mathematical operations on a
 - [Union](https://github.com/CSI-SCT-SB/PY_XTREME/blob/main/Numpy/Union.ipynb)
 - [Unique](https://github.com/CSI-SCT-SB/PY_XTREME/blob/main/Numpy/Unique.ipynb)
 - [Unique2](https://github.com/CSI-SCT-SB/PY_XTREME/blob/main/Numpy/Unique2.ipynb)
+- [ardiv](https://github.com/CSI-SCT-SB/PY_XTREME/blob/main/Numpy/ardiv.ipynb)
+- [argmax](https://github.com/CSI-SCT-SB/PY_XTREME/blob/main/Numpy/argmax.ipynb)
 
 ## Installer
 [**Installation guide**](https://www.tutorialspoint.com/numpy/numpy_environment.htm)

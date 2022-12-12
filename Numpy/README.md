@@ -18,6 +18,9 @@ This stands for numerical python. They are used for mathematical operations on a
 - [Search](https://github.com/CSI-SCT-SB/PY_XTREME/blob/main/Numpy/Search.ipynb)
 - [Sort](https://github.com/CSI-SCT-SB/PY_XTREME/blob/main/Numpy/Sort.ipynb)
 - [Stack](https://github.com/CSI-SCT-SB/PY_XTREME/blob/main/Numpy/Stack.ipynb)
+- [Union](https://github.com/CSI-SCT-SB/PY_XTREME/blob/main/Numpy/Union.ipynb)
+- [Unique](https://github.com/CSI-SCT-SB/PY_XTREME/blob/main/Numpy/Unique.ipynb)
+- [Unique2](https://github.com/CSI-SCT-SB/PY_XTREME/blob/main/Numpy/Unique2.ipynb)
 
 ## Installer
 [**Installation guide**](https://www.tutorialspoint.com/numpy/numpy_environment.htm)

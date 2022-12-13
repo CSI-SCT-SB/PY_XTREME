@@ -30,6 +30,10 @@ This stands for numerical python. They are used for mathematical operations on a
 - [Ficonacci](https://github.com/CSI-SCT-SB/PY_XTREME/blob/main/Numpy/Fibonacci.ipynb)
 - [Matrix_addition](https://github.com/CSI-SCT-SB/PY_XTREME/blob/main/Numpy/matrixaddition.ipynb)
 - [Matrix_subtraction](https://github.com/CSI-SCT-SB/PY_XTREME/blob/main/Numpy/matrixsubtraction.ipynb)
+- [Count_nonzero](https://github.com/Annamjohn/PY_XTREME/blob/main/Numpy/count_nonzero.ipynb)
+
+
+
 
 ## Installer
 [**Installation guide**](https://www.tutorialspoint.com/numpy/numpy_environment.htm)

@@ -3,6 +3,7 @@
 
 ## Contents
 - [Data](https://github.com/Annamjohn/PY_XTREME/blob/main/Pandas/data.ipynb)
+- [Dfpa](https://github.com/Annamjohn/PY_XTREME/blob/main/Pandas/dfpa.ipynb)
 
 ## Tutorial
 1. [**Blog by w3schools**](https://www.w3schools.com/python/pandas/default.asp)

@@ -4,6 +4,8 @@
 ## Contents
 - [Plane](https://github.com/Annamjohn/PY_XTREME/blob/main/Matplotlib/Plane.ipynb)
 - [SinCosgraph](https://github.com/Annamjohn/PY_XTREME/blob/main/Matplotlib/PlottingSin%26CosGraph.ipynb)
+- [Scatter](https://github.com/Annamjohn/PY_XTREME/blob/main/Matplotlib/Scatter.ipynb)
+
 
 ## Tutorial
 1. [**Blog by tutorialspoint**](https://www.tutorialspoint.com/matplotlib/matplotlib_quick_guide.htm)

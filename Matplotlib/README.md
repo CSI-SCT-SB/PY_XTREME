@@ -1,7 +1,8 @@
 # Matplotlib
 ![matplotlib](https://user-images.githubusercontent.com/79012314/205360891-e41a9249-cdaf-4042-b11c-d3274f2836f2.png)
 
-
+## Contents
+- [Plane](https://github.com/Annamjohn/PY_XTREME/blob/main/Matplotlib/Plane.ipynb)
 
 ## Tutorial
 1. [**Blog by tutorialspoint**](https://www.tutorialspoint.com/matplotlib/matplotlib_quick_guide.htm)

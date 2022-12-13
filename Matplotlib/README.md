@@ -5,6 +5,7 @@
 - [Plane](https://github.com/Annamjohn/PY_XTREME/blob/main/Matplotlib/Plane.ipynb)
 - [SinCosgraph](https://github.com/Annamjohn/PY_XTREME/blob/main/Matplotlib/PlottingSin%26CosGraph.ipynb)
 - [Scatter](https://github.com/Annamjohn/PY_XTREME/blob/main/Matplotlib/Scatter.ipynb)
+- [Simple graph](https://github.com/Annamjohn/PY_XTREME/blob/main/Matplotlib/simpg.ipynb)
 
 
 ## Tutorial

@@ -28,6 +28,7 @@ This stands for numerical python. They are used for mathematical operations on a
 - [polyval](https://github.com/CSI-SCT-SB/PY_XTREME/blob/main/Numpy/polyval.ipynb)
 - [put](https://github.com/CSI-SCT-SB/PY_XTREME/blob/main/Numpy/put.ipynb)
 - [Ficonacci](https://github.com/CSI-SCT-SB/PY_XTREME/blob/main/Numpy/Fibonacci.ipynb)
+- [Matrix_addition](https://github.com/CSI-SCT-SB/PY_XTREME/blob/main/Numpy/matrixaddition.ipynb)
 
 ## Installer
 [**Installation guide**](https://www.tutorialspoint.com/numpy/numpy_environment.htm)

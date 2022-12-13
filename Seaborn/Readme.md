@@ -5,6 +5,7 @@ Seaborn is a library for making statistical graphics in Python. It builds on top
 
 ## Contents
 - [Bubbleplot](https://github.com/CSI-SCT-SB/PY_XTREME/blob/main/Seaborn/Bubbleplot.ipynb)
+- [Countsplot](https://github.com/CSI-SCT-SB/PY_XTREME/blob/main/Seaborn/Countsplot.ipynb)
 
 
 ## Documentation

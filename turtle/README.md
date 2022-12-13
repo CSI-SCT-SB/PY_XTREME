@@ -8,6 +8,7 @@
 - [TurtleClearstamp](https://github.com/Annamjohn/PY_XTREME/blob/main/turtle/SivaSankar_TurtleClearstamp.ipynb)
 - [TurtleColor](https://github.com/Annamjohn/PY_XTREME/blob/main/turtle/SivaSankar_TurtleColor.ipynb)
 - [TurtleForward](https://github.com/Annamjohn/PY_XTREME/blob/main/turtle/SivaSankar_TurtleForward.ipynb)
+- [TurtleGoto](https://github.com/Annamjohn/PY_XTREME/blob/main/turtle/SivaSankar_TurtleGoto.ipynb)
 
 ## Documentations
 1. [Official documentation](https://docs.python.org/3/library/turtle.html)

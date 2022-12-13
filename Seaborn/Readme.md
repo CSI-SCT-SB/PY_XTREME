@@ -2,6 +2,11 @@
 
 Seaborn is a library for making statistical graphics in Python. It builds on top of matplotlib and integrates closely with pandas data structures. Seaborn helps you explore and understand your data.
 
+
+## Contents
+- [Bubbleplot](https://github.com/CSI-SCT-SB/PY_XTREME/blob/main/Seaborn/Bubbleplot.ipynb)
+
+
 ## Documentation
 1. [Official website](https://seaborn.pydata.org/)
 1. [Installation guide](https://seaborn.pydata.org/installing.html)

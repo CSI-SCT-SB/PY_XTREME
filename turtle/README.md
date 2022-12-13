@@ -12,7 +12,7 @@
 - [TurtleHideturtle](https://github.com/Annamjohn/PY_XTREME/blob/main/turtle/SivaSankar_TurtleHideturtle.ipynb)
 - [TurtleIsdown](https://github.com/Annamjohn/PY_XTREME/blob/main/turtle/SivaSankar_TurtleIsdown.ipynb)
 - [TurtleIsvisible](https://github.com/Annamjohn/PY_XTREME/blob/main/turtle/SivaSankar_TurtleIsvisible.ipynb)
--.[TurtleLeft](https://github.com/Annamjohn/PY_XTREME/blob/main/turtle/SivaSankar_TurtleLeft.ipynb)
+- [TurtleLeft](https://github.com/Annamjohn/PY_XTREME/blob/main/turtle/SivaSankar_TurtleLeft.ipynb)
 
 ## Documentations
 1. [Official documentation](https://docs.python.org/3/library/turtle.html)

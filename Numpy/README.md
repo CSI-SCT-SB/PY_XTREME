@@ -3,6 +3,31 @@
 # Numpy
 This stands for numerical python. They are used for mathematical operations on arrays.
 
+## Contents
+- [Matrix_multiplication](https://github.com/CSI-SCT-SB/PY_XTREME/tree/main/Numpy/Matrix_multiplication)
+- [Matrix_transpose](https://github.com/CSI-SCT-SB/PY_XTREME/tree/main/Numpy/Matrix_transpose)
+- [Clip](https://github.com/CSI-SCT-SB/PY_XTREME/blob/main/Numpy/Clip.ipynb)
+- [Intersect](https://github.com/CSI-SCT-SB/PY_XTREME/blob/main/Numpy/Intersect.ipynb)
+- [Expand_dimensions](https://github.com/CSI-SCT-SB/PY_XTREME/blob/main/Numpy/Expand_dimensions.ipynb)
+- [Polynomial_operations](https://github.com/CSI-SCT-SB/PY_XTREME/tree/main/Numpy/Polynomial_Operations)
+- [Matrix_rotation](https://github.com/CSI-SCT-SB/PY_XTREME/tree/main/Numpy/Matrix_Rotation)
+- [Lists_to_matrix](https://github.com/CSI-SCT-SB/PY_XTREME/blob/main/Numpy/ListstoMatrix.ipynb)
+- [Poly_fit](https://github.com/CSI-SCT-SB/PY_XTREME/blob/main/Numpy/PolyFit.ipynb)
+- [Random](https://github.com/CSI-SCT-SB/PY_XTREME/blob/main/Numpy/Random.ipynb)
+- [Repeat](https://github.com/CSI-SCT-SB/PY_XTREME/blob/main/Numpy/Repeat.ipynb)
+- [Search](https://github.com/CSI-SCT-SB/PY_XTREME/blob/main/Numpy/Search.ipynb)
+- [Sort](https://github.com/CSI-SCT-SB/PY_XTREME/blob/main/Numpy/Sort.ipynb)
+- [Stack](https://github.com/CSI-SCT-SB/PY_XTREME/blob/main/Numpy/Stack.ipynb)
+- [Union](https://github.com/CSI-SCT-SB/PY_XTREME/blob/main/Numpy/Union.ipynb)
+- [Unique](https://github.com/CSI-SCT-SB/PY_XTREME/blob/main/Numpy/Unique.ipynb)
+- [Unique2](https://github.com/CSI-SCT-SB/PY_XTREME/blob/main/Numpy/Unique2.ipynb)
+- [ardiv](https://github.com/CSI-SCT-SB/PY_XTREME/blob/main/Numpy/ardiv.ipynb)
+- [argmax](https://github.com/CSI-SCT-SB/PY_XTREME/blob/main/Numpy/argmax.ipynb)
+- [linspace](https://github.com/CSI-SCT-SB/PY_XTREME/blob/main/Numpy/linspace.ipynb)
+- [numpy_basics](https://github.com/CSI-SCT-SB/PY_XTREME/blob/main/Numpy/numpy_basics.ipynb)
+- [polyval](https://github.com/CSI-SCT-SB/PY_XTREME/blob/main/Numpy/polyval.ipynb)
+- [put](https://github.com/CSI-SCT-SB/PY_XTREME/blob/main/Numpy/put.ipynb)
+
 ## Installer
 [**Installation guide**](https://www.tutorialspoint.com/numpy/numpy_environment.htm)
 

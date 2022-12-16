@@ -1,6 +1,9 @@
 # Pandas
 ![pandasseries_redo](https://user-images.githubusercontent.com/79012314/205359499-45bcb612-4711-4516-b060-ed68d81e8012.png)
 
+## Contents
+- [Data](https://github.com/Annamjohn/PY_XTREME/blob/main/Pandas/data.ipynb)
+- [Dfpa](https://github.com/Annamjohn/PY_XTREME/blob/main/Pandas/dfpa.ipynb)
 
 ## Tutorial
 1. [**Blog by w3schools**](https://www.w3schools.com/python/pandas/default.asp)

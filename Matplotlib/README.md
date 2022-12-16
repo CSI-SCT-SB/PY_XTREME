@@ -1,7 +1,12 @@
 # Matplotlib
 ![matplotlib](https://user-images.githubusercontent.com/79012314/205360891-e41a9249-cdaf-4042-b11c-d3274f2836f2.png)
 
-
+## Contents
+- [Plane](https://github.com/Annamjohn/PY_XTREME/blob/main/Matplotlib/Plane.ipynb)
+- [SinCosgraph](https://github.com/Annamjohn/PY_XTREME/blob/main/Matplotlib/PlottingSin%26CosGraph.ipynb)
+- [Scatter](https://github.com/Annamjohn/PY_XTREME/blob/main/Matplotlib/Scatter.ipynb)
+- [Simple graph](https://github.com/Annamjohn/PY_XTREME/blob/main/Matplotlib/simpg.ipynb)
+- [Tan](https://github.com/Annamjohn/PY_XTREME/blob/main/Matplotlib/tan.ipynb)
 
 ## Tutorial
 1. [**Blog by tutorialspoint**](https://www.tutorialspoint.com/matplotlib/matplotlib_quick_guide.htm)

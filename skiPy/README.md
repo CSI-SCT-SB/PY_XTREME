@@ -1,4 +1,8 @@
 # SciPy
+## Contents
+- [DEterminants](https://github.com/CSI-SCT-SB/PY_XTREME/blob/main/skiPy/Determinants.ipynb)
+- [Double Integrals](https://github.com/CSI-SCT-SB/PY_XTREME/blob/main/skiPy/Double_Integrals.ipynb)
+- []()
 
 ## Documentations
 [**Official documentation**](https://docs.scipy.org/doc/scipy/)

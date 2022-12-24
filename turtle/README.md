@@ -28,7 +28,7 @@
 - [Turtle Ycor](https://github.com/CSI-SCT-SB/PY_XTREME/blob/main/turtle/SivaSankar_TurtleYcor.ipynb)
 - [Shape](https://github.com/CSI-SCT-SB/PY_XTREME/blob/main/turtle/shape.ipynb)
 - [Square](https://github.com/CSI-SCT-SB/PY_XTREME/blob/main/turtle/square.ipynb)
-- []()
+- [Triangle](https://github.com/CSI-SCT-SB/PY_XTREME/blob/main/turtle/triangle.ipynb)
 
 
 ## Documentations

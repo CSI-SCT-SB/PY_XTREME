@@ -14,7 +14,12 @@
 - [TurtleIsvisible](https://github.com/Annamjohn/PY_XTREME/blob/main/turtle/SivaSankar_TurtleIsvisible.ipynb)
 - [TurtleLeft](https://github.com/Annamjohn/PY_XTREME/blob/main/turtle/SivaSankar_TurtleLeft.ipynb)
 - [Pen Down](https://github.com/CSI-SCT-SB/PY_XTREME/blob/main/turtle/SivaSankar_TurtlePenDown.ipynb)
-- []()
+- [Pen Up](https://github.com/CSI-SCT-SB/PY_XTREME/blob/main/turtle/SivaSankar_TurtlePenUp.ipynb)
+- ()[]
+- ()[]
+- ()[]
+- ()[]
+- ()[]
 
 
 ## Documentations

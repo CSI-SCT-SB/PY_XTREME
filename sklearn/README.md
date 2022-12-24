@@ -25,7 +25,8 @@
 <li><a href="https://github.com/CSI-SCT-SB/PY_XTREME/blob/main/sklearn/DataFrame.ipynb">DataFrame</a></li>
 <li><a href="https://github.com/CSI-SCT-SB/PY_XTREME/blob/main/sklearn/Loading_a_dataset.ipynb">Loading Dataset</a></li>
 <li><a href="https://github.com/CSI-SCT-SB/PY_XTREME/blob/main/sklearn/Multiple_regression.ipynb">Multiple Regression</a></li>
-<li><a href="https://github.com/CSI-SCT-SB/PY_XTREME/blob/main/sklearn/Loading_a_dataset.ipynb">Loading Dataset</a></li>
+<li><a href="https://github.com/CSI-SCT-SB/PY_XTREME/blob/main/sklearn/Splitting_the_dataset.ipynb">Splitting Dataset</a></li>
+<li><a href="https://github.com/CSI-SCT-SB/PY_XTREME/blob/main/sklearn/Splitting_the_dataset.ipynb">Splitting Dataset</a></li>
 </ul></p>
 
 

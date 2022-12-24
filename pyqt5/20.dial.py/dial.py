@@ -31,9 +31,7 @@ class mainWindow(widgets.QWidget):
     def showValue(self):
         print(self.dial.value())
 
-    def getValue(self):
-        value = self.list.currentItem().text()
-        print(value)
+ 
 
 
 

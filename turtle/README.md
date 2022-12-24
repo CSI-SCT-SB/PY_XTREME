@@ -17,7 +17,7 @@
 - [Pen Up](https://github.com/CSI-SCT-SB/PY_XTREME/blob/main/turtle/SivaSankar_TurtlePenUp.ipynb)
 - [Pen Size](https://github.com/CSI-SCT-SB/PY_XTREME/blob/main/turtle/SivaSankar_TurtlePensize.ipynb)
 - [Reset](https://github.com/CSI-SCT-SB/PY_XTREME/blob/main/turtle/SivaSankar_TurtleReset.ipynb)
-- []
+- [TurtleRight](https://github.com/CSI-SCT-SB/PY_XTREME/blob/main/turtle/SivaSankar_TurtleRight.ipynb)
 - []
 - []
 

@@ -4,6 +4,14 @@ It is a library that posses real-time reference
 
 ![datetime_attributes](https://user-images.githubusercontent.com/79012314/205359988-64679aef-dadc-4c5c-9310-39aa6be2bc53.png)
 
+## Contents:
+
+- [date](https://github.com/CSI-SCT-SB/PY_XTREME/blob/main/Datetime/date.ipynb)
+- [dirdate](https://github.com/CSI-SCT-SB/PY_XTREME/blob/main/Datetime/dirdate.ipynb)
+- [month](https://github.com/CSI-SCT-SB/PY_XTREME/blob/main/Datetime/month.ipynb)
+- [strftime](https://github.com/CSI-SCT-SB/PY_XTREME/blob/main/Datetime/strftime.ipynb)
+- [tdate](https://github.com/CSI-SCT-SB/PY_XTREME/blob/main/Datetime/tdate.ipynb)
+- [year](https://github.com/CSI-SCT-SB/PY_XTREME/blob/main/Datetime/year.ipynb)
 
 ## Links:
 

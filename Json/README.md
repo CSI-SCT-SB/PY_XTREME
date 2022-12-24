@@ -1,4 +1,9 @@
 # Json
+## Contents
+- [**Complex Encoding**](https://github.com/CSI-SCT-SB/PY_XTREME/blob/main/Json/Complex_Encoding.ipynb)
+- [**JSON to Python**](https://github.com/CSI-SCT-SB/PY_XTREME/blob/main/Json/Convert_from_JSON_to_Python.ipynb)
+- [**Python to JSON**](https://github.com/CSI-SCT-SB/PY_XTREME/blob/main/Json/Convert_from_Python_to_JSON.ipynb)
+- [**Legal Data**](https://github.com/CSI-SCT-SB/PY_XTREME/blob/main/Json/Converting_Python_object_containing_all_the_legal_data_types.ipynb)
 
 ## Document Tutorials:
 
